@@ -44,14 +44,12 @@ body{
 
 }
 .header_main #menu_bar input{
-
     width:20rem;
     height: auto;    
     border: 1px solid #000;
     border-radius: 5px;
 }
 .header_main #menu_bar p{
-
     font-size: 1.5rem;
 }
 .header_main #logo_main{
